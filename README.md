@@ -1,7 +1,1 @@
-echo "# MC-Coma-bedrock-image" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Hwaann/MC-Coma-bedrock-image.git
-git push -u origin main
+![cabbage_seeds](https://github.com/user-attachments/assets/6509b0fc-9820-4216-ba05-69693121c34e)
